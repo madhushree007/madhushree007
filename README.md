@@ -1,11 +1,20 @@
 ## Madhushree Gupta
 
 
-### Hi there 👋  I am Madhu. I am a Front End Developer upgraded my skills to Full Stack Developer. I have a decade of experience in development of multiple type of website.
+##### Hi there 👋  I am Madhu. I am a Front End Developer upgraded my skills to Full Stack Developer. I have a decade of experience in development of multiple type of website.
 
-### Outside of programming I love to spend time with my kids and husband. I am a good cook and a badminton player. 
+##### Outside of programming I love to spend time with my kids and husband. I am a good cook and a badminton player. 
 
-## Language I know
+- 🔭 I’m currently working on bidLocal and social-network-buttons
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+#### Language I know
 
 ![alt text](https://github.com/madhushree007/madhushree007/blob/main/tech.jpg)
 
