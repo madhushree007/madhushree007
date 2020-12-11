@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋  I am Madhu. I am a Front End Developer trying to become Full Stack Developer. I have a decade of experience in development of multiple type of website.
+
+### Outside of programming I love to spend time with my kids and husband. I am a good cook and a badminton player. 
+
+## Language I know
+
+
 
 <!--
 **madhushree007/madhushree007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
