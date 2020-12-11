@@ -1,4 +1,7 @@
-### Hi there 👋  I am Madhu. I am a Front End Developer trying to become Full Stack Developer. I have a decade of experience in development of multiple type of website.
+## Madhushree Gupta
+
+
+### Hi there 👋  I am Madhu. I am a Front End Developer upgraded my skills to Full Stack Developer. I have a decade of experience in development of multiple type of website.
 
 ### Outside of programming I love to spend time with my kids and husband. I am a good cook and a badminton player. 
 
