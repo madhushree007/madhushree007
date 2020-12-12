@@ -8,12 +8,20 @@
 <img align="right" alt="illustration of web developer with laptop" src="./uploads/animation_300_kilkrhtd.gif" width="300" />
 
 - :heart:  My most amazing css work are [Chakra restuarant](https://www.chakra.restaurant/), [Rajbhog Catering](http://rajbhogcatering.co.uk/) and [Sahusoft UK](http://sahusoft.co.uk/)
+
 - 🔭  I’m currently working on [bidLocal](https://github.com/Snugles/bid-local) 
+
 and [social-network-buttons](https://github.com/madhushree007/social-sharing-buttons)
+
 - 🌱  I’m currently learning test coverage and clean code structure
+
 - 💬 Ask me about html and css
+
 - 📫  Reach me: madhushree25@gmail.com                                                                          
 
+
+
+<hr />
 
 
 #### Language I know
