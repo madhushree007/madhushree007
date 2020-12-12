@@ -4,6 +4,8 @@
 ##### Hi there 👋  I am Madhu. I am a Front End Developer upgraded my skills to Full Stack Developer. I have a decade of experience in development of multiple type of website.
 
 ##### Outside of programming I love to spend time with my kids and husband. I am a good cook and a badminton player. 
+<lottie-player src="https://github.com/madhushree007/madhushree007/blob/main/data.json" background="transparent"  speed="1"  style="width: 300px; height: 300px;" loop controls autoplay></lottie-player>
+
 
 - 🔭 I’m currently working on [bidLocal](https://github.com/Snugles/bid-local) and [social-network-buttons](https://github.com/madhushree007/social-sharing-buttons)
 - 🌱 I’m currently learning ...
