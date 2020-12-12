@@ -15,7 +15,7 @@
 
 - 💬 Ask me about html and css
 
-- 📫  Reach me: madhushree25@gmail.com                                                                          
+- 📫  Reach me: [LinkedIn](https://www.linkedin.com/in/madhushree-gupta/) | [Twitter](https://twitter.com/madhusahu) | madhushree25@gmail.com                                                                          
 
 
 
