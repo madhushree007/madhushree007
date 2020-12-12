@@ -1,7 +1,7 @@
 ## Madhushree Gupta
 
 
-##### Hi there 👋  I am Madhu. I am a Front End Developer upgraded my skills to Full Stack Developer. I have a decade of experience in development of multiple type of website. I am passionate about awesome functional, accessible, responsive, pixel perfect and well-tested UIs. 
+##### Hi there 👋  I am Madhu. I am a Front End Developer. I have a decade of experience in development of multiple type of website. I am passionate about awesome functional, accessible, responsive, pixel perfect and well-tested UIs. 
 
 <img align="right" alt="illustration of web developer with laptop" src="./uploads/animation_300_kilkrhtd.gif" width="300" />
 
