@@ -5,7 +5,7 @@
 
 ##### Outside of programming I love to spend time with my kids and husband. I am a good cook and a badminton player. 
 
-<img align="right" alt="illustration of web developer with laptop" src="https://github.com/madhushree007/madhushree007/blob/main/animation_500_kilixv9c.gif" width="500" height="340" />
+<img align="right" alt="illustration of web developer with laptop" src="./uploads/animation_300_kilkrhtd.gif" width="300" />
 
 - :heart:  My most amazing css work are [Chakra restuarant](https://www.chakra.restaurant/), [Rajbhog Catering](http://rajbhogcatering.co.uk/) and [Sahusoft UK](http://sahusoft.co.uk/)
 - 🔭  I’m currently working on [bidLocal](https://github.com/Snugles/bid-local) 
