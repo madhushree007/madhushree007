@@ -24,4 +24,4 @@
 
 #### Language I know
 
-![alt text](https://github.com/madhushree007/madhushree007/blob/main/tech.jpg)
+![alt text](./uploads/techpsd.jpg)
