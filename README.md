@@ -7,9 +7,9 @@
 
 ##### Outside of programming I love to spend time with my kids and husband. I am a good cook and a badminton player. 
 
-- :heart:  My most amazing css work are [Chakra restuarant](https://www.chakra.restaurant/), [Rajbhog Catering](http://rajbhogcatering.co.uk/) and [Sahusoft UK](http://sahusoft.co.uk/)
-
 - 🔭  I’m currently working on [bidLocal](https://github.com/Snugles/bid-local) and [social-network-buttons](https://github.com/madhushree007/social-sharing-buttons)
+
+- :heart:  My most amazing css work are [Chakra restuarant](https://www.chakra.restaurant/), [Rajbhog Catering](http://rajbhogcatering.co.uk/) and [Sahusoft UK](http://sahusoft.co.uk/)
 
 - 🌱  I’m currently learning test coverage and clean code structure
 
