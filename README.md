@@ -21,7 +21,7 @@ and [social-network-buttons](https://github.com/madhushree007/social-sharing-but
 
 
 
-<hr />
+<hr width='100%' />
 
 
 #### Language I know
