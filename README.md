@@ -25,3 +25,12 @@
 #### Language I know
 
 ![alt text](./uploads/techpsd.jpg)
+
+### Github Stats
+
+  [![Madhu's github stats](https://github-readme-stats.vercel.app/api?username=madhushree007&theme=cobalt)](https://github.com/madhushree007/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhushree007&theme=cobalt)](https://github.com/madhushree007/github-readme-stats)
+
+
+
+
