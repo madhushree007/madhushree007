@@ -1,7 +1,7 @@
 ## Madhushree Gupta
 
 
-##### Hi there 👋  I am Madhu. I am a Front End Developer. I have been developing multiple small scale websites for many years using HTML, CSS and wordpress. I am passionate about awesome functional, accessible, responsive, pixel perfect and well-tested UIs. Now I am using current technologies like React, TypeScript, Express, Node and GraphQL for my projects. 
+##### Hi there 👋  I am Madhu. I am a Senior Frontend Developer. I have been developing multiple large and small scale websites for many years using React, Redux, Javascript, HTML and CSS. I am passionate about awesome functional, accessible, responsive, pixel perfect and well-tested UIs. 
 
 <img align="right" alt="illustration of web developer with laptop" src="./uploads/animation_300_kilkrhtd.gif" width="300" />
 
